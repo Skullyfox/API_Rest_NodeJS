@@ -5,11 +5,11 @@
 [![node Version](https://img.shields.io/badge/Node%20Version-8.10.0-1dd1a1.svg)]()
 [![npm Version](https://img.shields.io/badge/Npm%20Version-3.5.2-ff6b6b.svg)]()
 [![bcrypt Version](https://img.shields.io/badge/Bcrypt%20Version-2.0.1-54a0ff.svg)]()
-[![b-parser Version](https://img.shields.io/badge/Body--parser%20Version-1.18.3-ff9f43.svg)]()
+[![bparser Version](https://img.shields.io/badge/Body--parser%20Version-1.18.3-ff9f43.svg)]()
 [![express Version](https://img.shields.io/badge/Express%20Version-4.16.3-f8a5c2.svg)]()
-[![npm Version](https://img.shields.io/badge/JsonWebToken%20Version-8.3.0-f7d794.svg)]()
-[![npm Version](https://img.shields.io/badge/Mysql%20Version-2.15.0-574b90.svg)]()
-[![npm Version](https://img.shields.io/badge/Sequelize%20Version-3.30.4-546de5.svg)]()
+[![JWT Version](https://img.shields.io/badge/JsonWebToken%20Version-8.3.0-f7d794.svg)]()
+[![Mysql Version](https://img.shields.io/badge/Mysql%20Version-2.15.0-574b90.svg)]()
+[![Sequelize Version](https://img.shields.io/badge/Sequelize%20Version-3.30.4-546de5.svg)]()
 
 ## SUMMARY
 ---
